@@ -1,5 +1,5 @@
 # RLF
-R code implementation of RLF. The general backbone follows the R implementation of Randomforest (Leo Breiman [aut] (Fortran original), Adele Cutler [aut] (Fortran original), Andy Liaw [aut, cre] (R port), Matthew Wiener [aut] (R port))
+R code implementation of Riemann-Lebesgue Forest. The general backbone follows the R implementation of Randomforest (Leo Breiman [aut] (Fortran original), Adele Cutler [aut] (Fortran original), Andy Liaw [aut, cre] (R port), Matthew Wiener [aut] (R port))
 
 Paper link: https://openreview.net/pdf?id=Gx8ujJTnG9
 ## How to use RLF:
